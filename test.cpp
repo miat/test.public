@@ -1,3 +1,4 @@
+// going to use std::function as callback to object member function
 #include <iostream>
 #include <functional>
 #include <typeinfo>
