@@ -1,3 +1,13 @@
+*.dSYM
+.vscode
 *.[oa]
 *~
-
+#ignore files without extension
+*
+!/**/
+!*.*
+#ignore files without extension
+.DS_Store
+.vscode/settings.json
+.vscode/tasks.json
+test.dSYM/Contents/Info.plist
