@@ -11,3 +11,4 @@
 .vscode/settings.json
 .vscode/tasks.json
 test.dSYM/Contents/Info.plist
+*.plist
